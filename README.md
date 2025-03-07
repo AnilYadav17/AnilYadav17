@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning cpp.
 - 💞️ I’m looking to collaboration 
 - 📫 How to reach me ..by ig :- yadav_17_anil
-- 😄 Pronouns:
-- ⚡ Fun fact:
+
 
 <!---
 AnilYadav17/AnilYadav17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
