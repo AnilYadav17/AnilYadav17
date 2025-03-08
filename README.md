@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnilYadav17
+- 👋 Hi, I’m Anil Yadav
 - 👀 I’m interested in Programming 
 - 🌱 I’m currently learning cpp.
 - 💞️ I’m looking to collaboration 
