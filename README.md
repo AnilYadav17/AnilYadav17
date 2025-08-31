@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Cybersecurity & Full Stack enthusiast from <b>India</b></h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" width="400" alt="" />
 <p align="left"> 
-  <a href="https://twitter.com/vishalptdr02" target="blank">
+  <a href="https://twitter.com/__anilyadav17" target="blank">
     <img src="https://img.shields.io/twitter/follow/AnilYadav17?logo=twitter&style=for-the-badge" alt="__anilyadav17" />
   </a> 
 </p>
