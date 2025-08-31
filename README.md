@@ -3,9 +3,11 @@
   🌌 Welcome to My Universe 🌌  
 </h1>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=FF00FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Anil+Yadav;Aspiring+Cybersecurity+Expert;Full+Stack+Learner;Passionate+about+Linux+%7C+DSA+%7C+Hacking;Leveling+Up+Everyday+🚀)](https://git.io/typing-svg)
+
 ---
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="350" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI2eHo0azF0bDBqZzQxMDNqZWE0YjQ1YWozZHE0cGpvd2lieTM5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif">
 ## 🎮 Level 1: About Me
 - 🎓 BTech CSE Student @ **Sri Aurobindo Institute of Technology, Indore**  
 - 🔐 Exploring **Cybersecurity, Ethical Hacking, and Linux**  
