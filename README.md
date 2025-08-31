@@ -4,10 +4,8 @@
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=FF00FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Anil+Yadav;Aspiring+Cybersecurity+Expert;Full+Stack+Learner;Passionate+about+Linux+%7C+DSA+%7C+Hacking;Leveling+Up+Everyday+🚀)](https://git.io/typing-svg)
-
 ---
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 🎮 Level 1: About Me
 - 🎓 BTech CSE Student @ **Sri Aurobindo Institute of Technology, Indore**  
 - 🔐 Exploring **Cybersecurity, Ethical Hacking, and Linux**  
