@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnilYadav17.AnilYadav17" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anil+Yadav!;" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=I+am+Anil+Yadav;Linux+Terminal+Enthusiast;Aspiring+Cybersecurity+Expert;Full+Stack+Learner;C%2B%2B+%7C+DSA+%7C+Linux+%7C+Ethical+Hacking;Always+learning+new+things+🚀)](https://git.io/typing-svg)
 </h1>
 
 <h3 align="center">A passionate Cybersecurity & Full Stack enthusiast from <b>India</b></h3>
