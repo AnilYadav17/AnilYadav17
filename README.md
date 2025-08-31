@@ -1,51 +1,75 @@
-<h1 align="center">Hi There! 👋</h1>
+<!-- Profile Header -->
+<h1 align="center">
+  🌌 Welcome to My Universe 🌌  
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=I+am+Anil+Yadav;Aspiring+Cybersecurity+Expert;Full+Stack+Learner;C%2B%2B+%7C+DSA+%7C+Linux+%7C+Ethical+Hacking;Always+learning+new+things+🚀)](https://git.io/typing-svg)
-
----
-
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 👨‍💻 About Me  
-- 🎓 BTech CSE student at **Sri Aurobindo Institute of Technology, Indore**  
-- 🔐 Passionate about **Cybersecurity & Ethical Hacking**  
-- 💻 Skilled in **C++, DSA, Linux, GitHub**  
-- 🎯 Goal: Become a **Cybersecurity Expert (Zero → Hero)**  
-- 🌱 Currently learning **Networking, OSINT & Advanced C++**  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=FF00FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Anil+Yadav;Aspiring+Cybersecurity+Expert;Full+Stack+Learner;Passionate+about+Linux+%7C+DSA+%7C+Hacking;Leveling+Up+Everyday+🚀)](https://git.io/typing-svg)
 
 ---
 
-### ⚡ Skills & Tools  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=databricks&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge&logo=cisco&logoColor=white)
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif">
+
+## 🎮 Level 1: About Me
+- 🎓 BTech CSE Student @ **Sri Aurobindo Institute of Technology, Indore**  
+- 🔐 Exploring **Cybersecurity, Ethical Hacking, and Linux**  
+- 💻 Strong in **C++, DSA, and Problem Solving**  
+- 🌱 Currently leveling up in **Networking & OSINT**  
+- 🎯 Mission: Become a **Cybersecurity Hero (Zero → Hero)**  
 
 ---
 
-### 📊 GitHub Stats  
-![Anil's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnilYadav17&show_icons=true&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnilYadav17&theme=radical)
-
----
-
-### 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=AnilYadav17&theme=radical&no-frame=true&margin-w=10)
+## ⚡ Level 2: Skills & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,linux,git,github,vscode,python,bash" />
+</p>
 
 ---
 
-### 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anilyadav17/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ay5741432@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__anilyadav17/)  
+## 📊 Level 3: Stats & Progress  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnilYadav17&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilYadav17&theme=tokyonight" height="180px"/>
+</p>
 
 ---
 
-### 🐍 Contribution Snake  
-![snake gif](https://github.com/AnilYadav17/AnilYadav17/blob/output/github-contribution-grid-snake.svg)
+## 🏆 Level 4: Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnilYadav17&theme=radical&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AnilYadav17.AnilYadav17)
+## 🐍 Level 5: Contribution Snake  
+<p align="center">
+  <img src="https://github.com/AnilYadav17/AnilYadav17/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎶 Level 6: Now Playing on Spotify  
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wjxgxxs6jssfx3dk8x1zzvnyse&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
+</p>
+
+---
+
+## 📖 Level 7: Quote of the Day  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🌌 Level 8: Connect with Me  
+<p align="center">
+  <a href="mailto:ay5741432@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/anilyadav17/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/__anilyadav17/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnilYadav17&label=Profile%20Views&color=FF1493&style=for-the-badge" />
+</p>
