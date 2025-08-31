@@ -6,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=FF00FF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Anil+Yadav;Aspiring+Cybersecurity+Expert;Full+Stack+Learner;Passionate+about+Linux+%7C+DSA+%7C+Hacking;Leveling+Up+Everyday+🚀)](https://git.io/typing-svg)
 
 ---
-
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif">
 
 ## 🎮 Level 1: About Me
