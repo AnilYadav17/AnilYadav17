@@ -84,26 +84,6 @@
   </a>
 </p>
 <hr style="border:px solid white;" />
-
----
-
-## 🧪 Terminal Simulation
-
-```bash
-$ neofetch
-OS: Pop!_OS 22.04 LTS
-CPU: Intel i3
-RAM: 8GB
-Shell: Zsh + Oh My Zsh
-GitHub Streak: 🔥 142 days
-AI Models: Mistral 7B, LLaMA.cpp
-
-$ python3 mistral7b.py
-Loading model...
-Generating response...
-✅ "Hello world from local AI!"
-
-
 <h2 align="center" style="color:white; font-weight:bold;">⚡ Stats ⚡</h2>
 <div align="center" style="margin-top:15px;">
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=AnilYadav17&theme=dark&hide_border=false" alt="streak stats"/>
