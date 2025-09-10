@@ -91,11 +91,5 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilYadav17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </div>
-<!-- 🟢 Daily Streak Update: 2025-09-02 -->
-<!-- 🟢 Daily Streak Update: 2025-09-02 -->
-<!-- 🟢 Daily Streak Update: 2025-09-03 -->
-<!-- 🟢 Daily Streak Update: 2025-09-04 -->
-<!-- 🟢 Daily Streak Update: 2025-09-05 -->
-<!-- 🟢 Daily Streak Update: 2025-09-07 -->
+<!-- 🟢 Daily Streak Update: 2025-09-10 -->
 
-!-- 🟢 Daily Streak Update: 2025-09-09 -->
