@@ -16,10 +16,10 @@
   <span style="color:#00FF00">🚀 Cybersecurity & Ethical Hacking Projects</span>
 
 - 🌱 **Currently learning:**  
-  <span style="color:#FF00FF">🔍 Networking & OSINT</span>
+  <span style="color:#FF00FF">🔍 Linux Commands ,Networking & OSINT</span>
 
 - 💬 **Ask me about:**  
-  <span style="color:#00FFFF">💻 C++, DSA, Linux, Ethical Hacking</span>
+  <span style="color:#00FFFF">💻 C++ , Python , Django ,  DSA, Linux, Ethical Hacking</span>
 
 - 📫 **Reach me at:**  
   <span style="color:#FFD700">📧 ay5741432@gmail.com</span>
