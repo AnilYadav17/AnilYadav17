@@ -16,7 +16,7 @@
   <span style="color:#00FF00">🚀 Cybersecurity & Ethical Hacking Projects</span>
 
 - 🌱 **Currently learning:**  
-  <span style="color:#FF00FF">🔍 Linux Commands ,Networking & OSINT</span>
+  <span style="color:#FF00FF">🔍 Linux Commands ,Python with django , DBMS </span>
 
 - 💬 **Ask me about:**  
   <span style="color:#00FFFF">💻 C++ , Python , Django ,  DSA, Linux, Ethical Hacking</span>
