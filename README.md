@@ -50,39 +50,21 @@
 ### 💥 **Cyber Vibe**
 <span style="color:#FF1493">“Always leveling up, always exploring, always hacking the impossible!”</span> 🚀
 
-<h3 align="center" style="font-weight:bold; color:#00;">⚡ Connect with Me ⚡</h3>
-<p align="center" style="margin-top:10px; margin-bottom:10px;">
-  <a href="https://github.com/AnilYadav17" target="_blank" style="margin:0 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AnilYadav17" height="35" width="45" />
-  </a>
-  <a href="https://www.linkedin.com/in/anilyadav17/" target="_blank" style="margin:0 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AnilYadav17" height="35" width="45" />
-  </a>
-  <a href="https://www.instagram.com/__anilyadav17/" target="_blank" style="margin:0 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__anilyadav17" height="35" width="45" />
-  </a>
+<h3 align="center">⚡ Connect with Me ⚡</h3>
+<p align="center">
+  <a href="https://github.com/AnilYadav17" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="35" width="45" /></a>
+  <a href="https://www.linkedin.com/in/anilyadav17/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a>
+  <a href="https://www.instagram.com/__anilyadav17/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" /></a>
 </p>
-<br>
-<hr style="border:px solid #a118a1ff;" />
+<h3 align="center">⚡ Languages & Tools ⚡</h3>
+<p align="center">
+  <a href="https://www.cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
+</p>
 
-<h3 align="center" style="color:white; font-weight:bold;">⚡ Languages & Tools ⚡</h3>
-<p align="center" style="margin-top:10px; margin-bottom:10px;">
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Terminal" width="50" height="50"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  </a>
-</p>
 <hr style="border:px solid white;" />
 <h2 align="center" style="color:white; font-weight:bold;">⚡ Stats ⚡</h2>
 <div align="center" style="margin-top:15px;">
