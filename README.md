@@ -1,68 +1,27 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AnilYadav17.AnilYadav17" />
+# 💫 About Me:
+🔭 I’m currently working on<br><br>* Python projects and backend development<br>* Building my full-stack development skills<br>* Improving problem-solving with DSA<br><br>👯 I’m looking to collaborate on<br><br>* Open-source beginner-friendly projects<br>* Full-stack web applications<br>* Python automation tools<br><br>🤝 I’m looking for help with<br><br>* Backend architecture<br>* Real-world full-stack projects<br>* Open-source contribution workflow<br><br>🌱 I’m currently learning<br><br>* Python<br>* Full-Stack Development<br>* APIs, Git & GitHub, and databases<br><br>💬 Ask me about<br><br>* Python basics<br>* Git & GitHub<br>* DSA practice<br>* Linux and beginner cybersecurity concepts<br><br>⚡ Fun fact<br><br>* I deleted games to focus on building skills and my career.<br>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anil+Yadav!;" />
-</h1>
 
-<h3 align="center">A passionate Cybersecurity & Full Stack enthusiast from <b>India</b></h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@__anilyadav17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilyadav17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay5741432@gmail.com) 
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" width="350" alt="" />
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AnilYadav17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AnilYadav17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnilYadav17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> 
-  <a href="https://twitter.com/__anilyadav17" target="blank">
-    <img src="https://img.shields.io/twitter/follow/AnilYadav17?logo=twitter&style=for-the-badge" alt="__anilyadav17" />
-  </a> 
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AnilYadav17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 **Currently working on:** <span style="color:#00FF00">🚀 Cybersecurity & Ethical Hacking Projects</span>
-- 🌱 **Currently learning:** <span style="color:#FF00FF">🔍 Linux Commands, Python with Django, DBMS</span>
-- 💬 **Ask me about:** <span style="color:#00FFFF">💻 C++, Python, Django, DSA, Linux, Ethical Hacking</span>
-- 📫 **Reach me at:** <span style="color:#FFD700">📧 ay5741432@gmail.com</span>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br clear="right" />
-
----
-
-### 🌟 **Beyond Programming**
-- 📚 **Exploring:** Linux & cybersecurity tools to level up skills ✨  
-- 💡 **Passion:** Solving challenges that push my coding & hacking limits ⚡  
-- 💪 **Mindset:** Continuous learning & self-improvement 💎  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AnilYadav17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AnilYadav17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### ⚡ **Fun Fact**
-💻 I’m fascinated by **ethical hacking & cybersecurity philosophy**. Constantly learning how to **secure systems, networks & data**.  
-
-🌌 **Intrigued by security frameworks & OSINT techniques** — understanding vulnerabilities to protect the digital universe!  
-
----
-
-### 🎮 **Hobby Mode**
-- 🖥️ Tinkering with Linux distros & terminal hacks  
-- 🔐 Practicing ethical hacking techniques in a safe environment  
-- 🎧 Music & tech podcasts while coding  
-
----
-
-### 💥 **Cyber Vibe**
-<span style="color:#FF1493">“Always leveling up, always exploring, always hacking the impossible!”</span> 🚀
-
-<h3 align="center">⚡ Connect with Me ⚡</h3>
-<p align="center">
-<a href="https://github.com/AnilYadav17"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="35" width="45" /></a><a href="https://www.linkedin.com/in/anilyadav17/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" /></a><a href="https://www.instagram.com/__anilyadav17/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="45" /></a>
-</p>
-
-<h3 align="center">⚡ Languages & Tools ⚡</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-</p>
-
----
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnilYadav17&theme=dark&hide_border=false" alt="streak stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AnilYadav17&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="readme stats" width="48%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilYadav17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" width="350" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
