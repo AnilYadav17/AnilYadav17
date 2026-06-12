@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AnilYadav17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AnilYadav17&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?AnilYadav17=AnilYadav17&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
