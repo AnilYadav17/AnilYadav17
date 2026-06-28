@@ -22,25 +22,19 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td width="60%">
-      <h2>💫 About Me</h2>
-      <ul>
-        <li>🔭 I’m currently working on <b>Python projects and backend development</b></li>
-        <li>🌱 I’m currently learning <b>Full-Stack Development, APIs, Git & GitHub, and databases</b></li>
-        <li>👯 I’m looking to collaborate on <b>Open-source beginner-friendly projects & Full-stack web applications</b></li>
-        <li>🤝 I’m looking for help with <b>Backend architecture & Real-world full-stack projects</b></li>
-        <li>💬 Ask me about <b>Python basics, Git & GitHub, DSA practice, Linux, and beginner cybersecurity concepts</b></li>
-        <li>⚡ Fun fact: <b>I deleted games to focus on building skills and my career.</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <!-- Aesthetic Animated Coding GIF -->
-      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Coding Animation" />
-    </td>
-  </tr>
-</table>
+<!-- Using standard float alignment instead of tables so it never breaks on mobile/desktop -->
+<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="350" alt="Coding Animation" />
+
+## 💫 About Me
+
+- 🔭 I’m currently working on **Python projects and backend development**
+- 🌱 I’m currently learning **Full-Stack Development, APIs, Git & GitHub, and databases**
+- 👯 I’m looking to collaborate on **Open-source beginner-friendly projects & Full-stack web applications**
+- 🤝 I’m looking for help with **Backend architecture & Real-world full-stack projects**
+- 💬 Ask me about **Python basics, Git & GitHub, DSA practice, Linux, and beginner cybersecurity concepts**
+- ⚡ Fun fact: **I deleted games to focus on building skills and my career.**
+
+<br><br>
 
 ---
 
@@ -58,11 +52,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnilYadav17&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Anil Yadav's Trophies" />
-</p>
 
 ### 📈 Contribution Graph
 <p align="center">
