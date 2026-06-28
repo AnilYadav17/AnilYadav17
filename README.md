@@ -1,27 +1,88 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>* Python projects and backend development<br>* Building my full-stack development skills<br>* Improving problem-solving with DSA<br><br>👯 I’m looking to collaborate on<br><br>* Open-source beginner-friendly projects<br>* Full-stack web applications<br>* Python automation tools<br><br>🤝 I’m looking for help with<br><br>* Backend architecture<br>* Real-world full-stack projects<br>* Open-source contribution workflow<br><br>🌱 I’m currently learning<br><br>* Python<br>* Full-Stack Development<br>* APIs, Git & GitHub, and databases<br><br>💬 Ask me about<br><br>* Python basics<br>* Git & GitHub<br>* DSA practice<br>* Linux and beginner cybersecurity concepts<br><br>⚡ Fun fact<br><br>* I deleted games to focus on building skills and my career.<br>
+<!-- Animated Waving Gradient Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Anil%20Yadav!&fontSize=60&animation=twinkling&fontAlignY=38&desc=A%20passionate%20developer%20building%20things%20for%20the%20web!&descAlignY=60&descSize=20" width="100%" alt="Header Image" />
+</div>
 
+<!-- Animated Typing Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Enthusiast;Open-Source+Contributor;Always+Learning+%26+Building" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@__anilyadav17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anilyadav17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ay5741432@gmail.com) 
+<br>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AnilYadav17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AnilYadav17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AnilYadav17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/anilyadav17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anilyadav17" height="30" width="40" /></a>
+  <a href="https://instagram.com/__anilyadav17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__anilyadav17" height="30" width="40" /></a>
+  <a href="mailto:ay5741432@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AnilYadav17&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnilYadav17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnilYadav17&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
-![](https://komarev.com/ghpvc/?AnilYadav17=AnilYadav17&style=flat-square)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table align="center">
+  <tr>
+    <td width="60%">
+      <h2>💫 About Me</h2>
+      <ul>
+        <li>🔭 I’m currently working on <b>Python projects and backend development</b></li>
+        <li>🌱 I’m currently learning <b>Full-Stack Development, APIs, Git & GitHub, and databases</b></li>
+        <li>👯 I’m looking to collaborate on <b>Open-source beginner-friendly projects & Full-stack web applications</b></li>
+        <li>🤝 I’m looking for help with <b>Backend architecture & Real-world full-stack projects</b></li>
+        <li>💬 Ask me about <b>Python basics, Git & GitHub, DSA practice, Linux, and beginner cybersecurity concepts</b></li>
+        <li>⚡ Fun fact: <b>I deleted games to focus on building skills and my career.</b></li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <!-- Aesthetic Animated Coding GIF -->
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnilYadav17&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Anil Yadav's Trophies" />
+</p>
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilYadav17&theme=react&bg_color=1F222E&hide_border=true" alt="Anil Yadav's Activity Graph" />
+</p>
+
+### 📊 Stats & Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnilYadav17&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Anil Yadav's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilYadav17&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Anil Yadav's Top Languages" />
+</p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AnilYadav17&theme=radical&hide_border=true" alt="Anil Yadav's GitHub Streak" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
