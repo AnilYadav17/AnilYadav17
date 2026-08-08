@@ -58,12 +58,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilYadav17&theme=react&bg_color=1F222E&hide_border=true" alt="Anil Yadav's Activity Graph" />
 </p>
 
-### 📊 Stats & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnilYadav17&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Anil Yadav's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilYadav17&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Anil Yadav's Top Languages" />
-</p>
-
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=AnilYadav17&theme=radical&hide_border=true" alt="Anil Yadav's GitHub Streak" />
