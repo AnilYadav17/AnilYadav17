@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I'm **Anil Yadav**
+#                                           👋 Hi, I'm **Anil Yadav**
 
 
 <div align="center">
@@ -12,7 +12,6 @@
 </div>
 <div align="center">
 
-### 🚀 Code • Learn • Build • Repeat
 
 <!-- Animated Typing Text -->
   
