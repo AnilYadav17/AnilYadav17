@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm **Anil Yadav**
 
-### 🚀 Code • Learn • Build • Repeat
 
 </div>
 
