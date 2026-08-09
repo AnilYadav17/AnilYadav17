@@ -1,6 +1,10 @@
+<div align="center">
 
+# 👋 Hi, I'm **Anil Yadav**
 
-#                                           👋 Hi, I'm **Anil Yadav**
+### 🚀 Code • Learn • Build • Repeat
+
+</div>
 
 
 <div align="center">
