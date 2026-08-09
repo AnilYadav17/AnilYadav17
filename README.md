@@ -24,7 +24,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
 * 🔭 Currently building **Python projects and backend applications**
 * 🌱 Learning **Full-Stack Development, REST APIs, Git & GitHub, and databases**
