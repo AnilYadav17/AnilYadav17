@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Enthusiast;Open-Source+Contributor;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
-<img align="right" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="350" alt="Coding Animation" />
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="350" alt="Coding Animation" />
 
 <br><br>
 
@@ -43,13 +43,12 @@
 
 # 💻 Tech Stack
 
-<br>
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,mysql,html,css,js,git,github,linux,vscode&perline=6" />
 
 </div>
 
-<br>
+<br><br>
 
 <!-- GITHUB ANALYTICS -->
 
@@ -57,21 +56,15 @@
 
 # 📊 GitHub Analytics
 
-<br>
+
 
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilYadav17&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
-<br><br>
+<br>
 
-### 📊 Stats & Top Languages
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnilYadav17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=15" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnilYadav17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=15" />
-
-<br><br>
 
 ### 🔥 GitHub Streak
 
@@ -79,7 +72,7 @@
 
 </div>
 
-<br>
+<br><br>
 
 <!-- RANDOM DEV QUOTE -->
 
@@ -88,7 +81,7 @@
 # ✍️ Random Dev Quote
 
 
-<br>
+
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
