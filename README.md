@@ -2,52 +2,36 @@
 
 # 👋 Hi, I'm **Anil Yadav**
 
-
-</div>
-
-
-<div align="center">
 <img src="https://komarev.com/ghpvc/?username=AnilYadav17&label=Profile%20Views&color=0e75b6&style=flat" />
-<div>
-<a href="https://github.com/AnilYadav17">
-<img src="https://img.shields.io/badge/GitHub-AnilYadav17-0D1117?style=for-the-badge&logo=github" />
-</a>
-</div>
-<div align="center">
 
+<a href="https://github.com/AnilYadav17">
+  <img src="https://img.shields.io/badge/GitHub-AnilYadav17-0D1117?style=for-the-badge&logo=github" />
+</a>
+
+<br>
 
 <!-- Animated Typing Text -->
-  
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Enthusiast;Open-Source+Contributor;Always+Learning+%26+Building" alt="Typing SVG" />
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Enthusiast;Open-Source+Contributor;Always+Learning+%26+Building" alt="Typing SVG" />
 
-<div align="center">
+</div>
+
+<br><br>
 
 ## 💫 About Me
 
-</div>
-
-<div align="center">
-
-* 🔭 Currently building **Python projects and backend applications**
-* 🌱 Learning **Full-Stack Development, REST APIs, Git & GitHub, and databases**
-* 👯 Open to collaborating on **beginner-friendly open-source and full-stack projects**
-* 🤝 Looking to improve **backend architecture and real-world software development**
-* 💬 Ask me about **Python, Git & GitHub, DSA, Linux, and beginner-level cybersecurity**
-* ⚡ **Fun fact:** I deleted games to reduce distractions and focus on building my skills and career.
-
-</div>
-
+- 🔭 Currently building **Python projects and backend applications**
+- 🌱 Learning **Full-Stack Development, REST APIs, Git & GitHub, and databases**
+- 👯 Open to collaborating on **beginner-friendly open-source and full-stack projects**
+- 🤝 Looking to improve **backend architecture and real-world software development**
+- 💬 Ask me about **Python, Git & GitHub, DSA, Linux, and beginner-level cybersecurity**
+- ⚡ **Fun fact:** I deleted games to reduce distractions and focus on building my skills and career.
 
 <br><br>
 
-
 <!-- TECH STACK -->
-
 <div align="center">
 
 # 💻 Tech Stack
-
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,mysql,html,css,js,git,github,linux,vscode&perline=6" />
 
@@ -56,20 +40,24 @@
 <br><br>
 
 <!-- GITHUB ANALYTICS -->
-
 <div align="center">
 
 # 📊 GitHub Analytics
-
-
 
 ### 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilYadav17&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
+<!--
+  NOTE: If the graph above shows a broken image / 402 error, the shared
+  vercel.app instance has hit its free-tier usage limit. Fix:
+  1. Fork https://github.com/Ashutosh00710/github-readme-activity-graph
+  2. Deploy your fork to your own Vercel account (free, ~2 min)
+  3. Swap "github-readme-activity-graph.vercel.app" above for your own
+     "your-fork-name.vercel.app" domain
+-->
+
 <br>
-
-
 
 ### 🔥 GitHub Streak
 
@@ -80,13 +68,9 @@
 <br><br>
 
 <!-- RANDOM DEV QUOTE -->
-
 <div align="center">
 
 # ✍️ Random Dev Quote
-
-
-
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 
@@ -111,11 +95,9 @@
   <a href="https://youtube.com/@anilyadav17777?si=uP8d2rrVswcj_Rec">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="YOUR_WHATSAPP_URL(here minee)">
+  <a href="https://wa.me/YOUR_NUMBER_HERE">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
 </div>
-
-
