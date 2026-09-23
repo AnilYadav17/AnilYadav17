@@ -8,95 +8,84 @@
   <img src="https://img.shields.io/badge/GitHub-AnilYadav17-0D1117?style=for-the-badge&logo=github" />
 </a>
 
-<br>
+<br><br>
 
 <!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Python+Enthusiast;Open-Source+Contributor;Always+Learning+%26+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+Specialist;Clean+Architecture+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 
 </div>
 
-<br><br>
+<br>
 
 ## 💫 About Me
 
-- 🔭 Currently building **Python projects and backend applications**
-- 🌱 Learning **Full-Stack Development, REST APIs, Git & GitHub, and databases**
-- 👯 Open to collaborating on **beginner-friendly open-source and full-stack projects**
-- 🤝 Looking to improve **backend architecture and real-world software development**
-- 💬 Ask me about **Python, Git & GitHub, DSA, Linux, and beginner-level cybersecurity**
-- ⚡ **Fun fact:** I deleted games to reduce distractions and focus on building my skills and career.
+- 🔭 Currently engineering **scalable Python backend applications & full-stack systems**
+- 🏛️ Focused on **Clean 3-Tier Architecture (DAO/Service Pattern), Database Design (RDBMS), and RESTful APIs**
+- 👯 Open to collaborating on **impactful open-source projects and production-grade applications**
+- 💬 Ask me about **Python, MySQL, Linux System Administration, and Object-Oriented Software Design**
+- ⚡ **Discipline:** Coding consistently every day, building practical tools, and mastering systems from scratch.
 
-<br><br>
+<br>
+
+## 🚀 Featured Flagship Projects
+
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| **[Layered Architecture PDBC](https://github.com/AnilYadav17/Layered_Architecture)** | Python, MySQL, DAO Pattern | Clean 3-tier enterprise architecture separating presentation, business logic, and database persistence. |
+| **[Attendance Management System](https://github.com/AnilYadav17/Attendance_Management_System)** | Django 4.2, MySQL, QR Crypto | Geo-fenced attendance tracking featuring dynamic HMAC-signed QR rotation to eliminate proxy attendance. |
+| **[Python Technical Projects](https://github.com/AnilYadav17/Python_Technical_Projects)** | Python 3, CLI, Cryptography | Comprehensive technical applications including a simulated modular **TerminalOS**, encryption suite, and ATM system. |
+| **[Database & SQL from Scratch](https://github.com/AnilYadav17/Database_MySQL)** | SQL, MySQL, Relational Design | Deep-dive practical reference covering normalization, complex joins, indexing, and transactional integrity. |
+
+<br>
 
 <!-- TECH STACK -->
 <div align="center">
 
-# 💻 Tech Stack
+## 💻 Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,mysql,html,css,js,git,github,linux,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask,mysql,html,css,js,git,github,linux,vscode&perline=6" />
 
 </div>
 
-<br><br>
+<br>
 
 <!-- GITHUB ANALYTICS -->
 <div align="center">
 
-# 📊 GitHub Analytics
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilYadav17&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-<!--
-  NOTE: If the graph above shows a broken image / 402 error, the shared
-  vercel.app instance has hit its free-tier usage limit. Fix:
-  1. Fork https://github.com/Ashutosh00710/github-readme-activity-graph
-  2. Deploy your fork to your own Vercel account (free, ~2 min)
-  3. Swap "github-readme-activity-graph.vercel.app" above for your own
-     "your-fork-name.vercel.app" domain
--->
-
-<br>
+## 📊 GitHub Analytics
 
 ### 🔥 GitHub Streak
-
 <img src="https://streak-stats.demolab.com?user=AnilYadav17&theme=tokyonight&hide_border=true&background=0D1117&border_radius=15" />
-
-</div>
 
 <br><br>
 
-<!-- RANDOM DEV QUOTE -->
-<div align="center">
-
-# ✍️ Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+### 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilYadav17&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
 
 <br>
 
+<!-- CONNECT -->
 <div align="center">
 
 ## 🤝 Let's Connect
 
 <p>
+  <a href="mailto:ay5741432@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://www.linkedin.com/in/anilyadav17/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/AnilYadav17">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.instagram.com/yadav_anil_17/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
   <a href="https://youtube.com/@anilyadav17777?si=uP8d2rrVswcj_Rec">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://wa.me/YOUR_NUMBER_HERE">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://www.instagram.com/yadav_anil_17/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
