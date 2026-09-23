@@ -66,10 +66,10 @@
 
 <br>
 
-### 📈 Contribution Heatmap
+### 👾 Activity Matrix & Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00D9FF/AnilYadav17" alt="Anil's Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/39d353/AnilYadav17" alt="Anil's Contribution Graph" width="100%" />
 </p>
 
 </div>
