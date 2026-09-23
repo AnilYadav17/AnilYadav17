@@ -52,15 +52,25 @@
 <!-- GITHUB ANALYTICS -->
 <div align="center">
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Activity
 
-### 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=AnilYadav17&theme=tokyonight&hide_border=true&background=0D1117&border_radius=15" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnilYadav17&theme=tokyonight&hide_border=true&background=0D1117&border_radius=12" alt="GitHub Streak" />
+</p>
 
-<br><br>
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=AnilYadav17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Anil's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AnilYadav17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnilYadav17&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<br>
+
+### 📈 Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00D9FF/AnilYadav17" alt="Anil's Contribution Graph" width="100%" />
+</p>
 
 </div>
 
